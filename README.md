@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
  -->
 # 💫 About Me:
-- 📫 How to reach me: **amal.ouassit2gmail.com**
+- 📫 How to reach me: **amal.ouassit@gmail.com**
 - 💼 Portfolio: https://amalouassit.live/
 - 📂 Resume: <a href="https://drive.google.com/file/d/1ohFxmoya76_H6sUizJamlltVpto71vMU/view?usp=sharing"> resume-link
 
