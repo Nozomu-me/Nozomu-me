@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 - 📫 How to reach me: **amal.ouassit@gmail.com**
 - 💼 Portfolio: https://amalouassit.live/
-- 📂 Resume: <a href="https://drive.google.com/file/d/1ohFxmoya76_H6sUizJamlltVpto71vMU/view?usp=sharing"> resume-link
+- 📂 Resume: <a href="https://drive.google.com/file/d/1J4H0CwavZpGU-PyzwLBN-msY5Oaz5PTb/view?usp=sharing"> resume-link
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-ouassit) 
