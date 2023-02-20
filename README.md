@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 - 📫 How to reach me: **amal.ouassit@gmail.com**
 - 💼 Portfolio: https://amalouassit.live/
-- 📂 Resume: <a href="https://drive.google.com/file/d/1J4H0CwavZpGU-PyzwLBN-msY5Oaz5PTb/view?usp=sharing"> resume-link
+- 📂 Resume: <a href="https://drive.google.com/file/d/1wRRBHeqAYX2pKUDeSQUi3dmmGw6ERepW/view?usp=sharing"> resume-link
 - Currently working on an Animals encyclopedia using Puppeteer, GraphQl, NodeJs and Reactjs with Typescript.
 
 ## 🌐 Socials:
