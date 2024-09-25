@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **amal.ouassit@gmail.com**
 - 💼 Portfolio: https://amalouassit.live/
 - 📂 Resume: <a href="https://drive.google.com/file/d/1wRRBHeqAYX2pKUDeSQUi3dmmGw6ERepW/view?usp=sharing"> resume-link
-- Currently working on an Animals encyclopedia using Puppeteer, GraphQl, NodeJs and Reactjs with Typescript.
+- Currently working on learning Python 🐍.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-ouassit) 
