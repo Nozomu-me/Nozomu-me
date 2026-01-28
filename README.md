@@ -7,8 +7,7 @@ Here are some ideas to get you started:
  -->
 # 💫 About Me:
 - 📫 How to reach me: **amal.ouassit@gmail.com**
-- 💼 Portfolio: https://amalouassit.live/
-- 📂 Resume: <a href="https://drive.google.com/file/d/1wRRBHeqAYX2pKUDeSQUi3dmmGw6ERepW/view?usp=sharing"> resume-link
+- 📂 Resume: <a href="https://drive.google.com/file/d/1lTlhQ_yRTw-mlBrplaNYJHpNjGo_UT9V/view?usp=sharing"> resume-link
 - Currently working on learning Python 🐍.
 
 ## 🌐 Socials:
